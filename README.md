@@ -1,6 +1,6 @@
-# ICASSP 2023: couple-stress-detection
+# couple-stress-detection
 
-##### The PyTorch implementation of paper 'A semi-supervised few-shot learning approach with domain adaptation for personalized stress detection within dating couples' as submitted to ICASSP 2023.
+##### The PyTorch implementation of paper 'A semi-supervised few-shot learning approach with domain adaptation for personalized stress detection within dating couples'.
 
 The data file used in the experiment 'preprocessed_data_valid_couples_v3.csv'.
 
